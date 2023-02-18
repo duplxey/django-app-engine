@@ -1,6 +1,6 @@
 # Deploying a Django app to Google App Engine
 
-Check out the [article](#) to learn how to deploy it.
+Check out the [article](https://testdriven.io/blog/django-gae/) to learn how to deploy it.
 
 ## Want to use this project?
 
